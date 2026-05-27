@@ -15,9 +15,13 @@ venv/
 data/*.parquet
 data/*.pkl
 
-# Outputs intermédiaires
+# LaTeX auxiliary files
 deliverable/*.aux
 deliverable/*.log
+deliverable/*.fls
+deliverable/*.out
+deliverable/*.fdb_latexmk
+deliverable/*.synctex.gz
 
 # OS
 .DS_Store
